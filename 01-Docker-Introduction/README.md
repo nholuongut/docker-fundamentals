@@ -12,7 +12,7 @@
 - What problems we have with Traditional Infra?
 - Why do we need to use Docker? 
 - What are advantages of using Docker?
--  For introduction slides refer the [presentation slides](nholuong-presentation/Docker-Fundamentals-v1.pptx). 
+-  For introduction slides refer the [presentation slides](/NhoLuong-Presentation/Docker-Fundamentals-v1.pptx). 
 
 
 # Docker Architecture
@@ -23,7 +23,7 @@
 - What are Docker Images?
 - What are Docker Containers?
 - What is Docker Registry or Docker Hub?
--  Refer the [presentation slides](nholuong-presentation/Docker-Fundamentals-v1.pptx). 
+-  Refer the [presentation slides](/NhoLuong-Presentation/Docker-Fundamentals-v1.pptx). 
 
 ![](https://i.imgur.com/waxVImv.png)
 # 🚀 I'm are always open to your feedback.  Please contact as bellow information:
